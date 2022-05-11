@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fix a bug
+=======
+test1test1test1
+>>>>>>> dev
